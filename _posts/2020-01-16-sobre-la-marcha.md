@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre la marcha"
-description: "The very first log's entry."
+description: "The very first log's entry. Pasando por MMDG"
 thumb_image: "documentation/sample-image.jpg"
 tags: [web, jekyll]
 ---
