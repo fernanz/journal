@@ -11,7 +11,7 @@ tags: [web, jekyll]
 [Download Chalk here!](https://github.com/nielsenramon/chalk)
 
 #### Features:
-  - About page.
+  - About page (página).
   - Automatic RSS feed.
   - Automatic sitemap.
   - Automatic time to read post indicator.
